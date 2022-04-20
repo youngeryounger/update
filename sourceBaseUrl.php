@@ -1,14 +1,14 @@
 {
     "NineManga":{
-      "baseUrl":"https://en.ninemanga.com",
+      "baseUrl":"https://en.ninemanga.com"
     },   
     "Manga365":{
-      "baseUrl":"https://365manga.com",
+      "baseUrl":"https://365manga.com"
     },    
     "Manga1stKiss":{
-      "baseUrl":"https://1stkissmanga.io",
+      "baseUrl":"https://1stkissmanga.io"
     },
     "MangaFunny":{
-      "baseUrl":"https://mangafunny.org",
+      "baseUrl":"https://mangafunny.org"
     } 
 }
